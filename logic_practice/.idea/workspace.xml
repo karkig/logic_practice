@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1485250-ba60-4a87-ac45-b3ee248f1587" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TyoEWITcelR4DT5SeFbSbxr3YM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="stacks" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SquarRootCalculate">
+    <configuration name="CircularList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CircularList" />
+      <module name="logic_practice" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeTwoListIntoONe" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MergeTwoListIntoONe" />
+      <module name="logic_practice" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SquarRootCalculate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SquarRootCalculate" />
+      <module name="logic_practice" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MergeTwoListIntoONe" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Java Scratch">
+      <option name="MAIN_CLASS_NAME" value="Merge" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SquarRootCalculate" />
+        <item itemvalue="Application.CircularList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1485250-ba60-4a87-ac45-b3ee248f1587" name="Default Changelist" comment="" />
+      <created>1574441584601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574441584601</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="453" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576957346837">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="453" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1576957346837" />
+    <state x="711" y="358" width="557" height="397" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585293562478">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="711" y="358" width="557" height="397" key="#com.intellij.fileTypes.FileTypeChooser/70.27.1850.1053@70.27.1850.1053" timestamp="1585293562478" />
+    <state x="748" y="439" width="494" height="246" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1578842471792">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="748" y="439" width="494" height="246" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/70.27.1850.1053@70.27.1850.1053" timestamp="1578842471792" />
+    <state x="633" y="27" width="713" height="1053" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1576953671796">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="633" y="27" width="713" height="1053" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1576953671796" />
+    <state x="778" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1585566776868">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="778" y="311" width="424" height="491" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1585566776868" />
+    <state width="1804" height="227" key="GridCell.Tab.0.bottom" timestamp="1577341749399">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="227" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1577341749399" />
+    <state width="1804" height="227" key="GridCell.Tab.0.center" timestamp="1577341749396">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="227" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1577341749396" />
+    <state width="1804" height="227" key="GridCell.Tab.0.left" timestamp="1577341749395">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="227" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1577341749395" />
+    <state width="1804" height="227" key="GridCell.Tab.0.right" timestamp="1577341749397">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="227" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1577341749397" />
+    <state x="648" y="171" width="683" height="771" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581101707638">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="648" y="171" width="683" height="771" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/70.27.1850.1053@70.27.1850.1053" timestamp="1581101707638" />
+    <state x="304" y="155" width="1372" height="803" key="new project wizard" timestamp="1579523566824">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="304" y="155" width="1372" height="803" key="new project wizard/70.27.1850.1053@70.27.1850.1053" timestamp="1579523566824" />
+    <state x="658" y="259" key="search.everywhere.popup" timestamp="1580100671969">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="658" y="259" key="search.everywhere.popup/70.27.1850.1053@70.27.1850.1053" timestamp="1580100671969" />
+  </component>
+</project>
