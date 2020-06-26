@@ -1,0 +1,54 @@
+package com.weatherdetails;
+/*
+The logic is to we can apply binary search, but here the elemnt are not completely sorted. So first we will find the point where from array in not sorted or the minimum value.
+
+Step1.  Find the position where from array is rotated. Now from that point we can divide the array into two part for binary search.
+
+
+ */
+public class SearchInSortedRotatedArray {
+    public static void main(String[] args) {
+        int[] a = {4, 5, 6, 7, 8, 9, 1, 2, 3};
+        int numberToBeSearch = 22;
+        int index = searchElementInSortedRotatedArray(a, numberToBeSearch);
+        System.out.println("index foud at : " + index);
+    }
+
+    public static int searchElementInSortedRotatedArray(int[] a, int numberToBeSearch) {
+        int left = 0;
+        int right = a.length - 1;
+        int mid;
+
+        while (left < right) {
+            mid = left + (right - left) / 2;
+            if (a[mid] > a[right]) {
+                left = mid + 1;
+            } else {
+                right = mid;
+            }
+        }
+
+        int start = left;
+        left = 0;
+        right = a.length - 1;
+
+        if (numberToBeSearch >= a[start] && numberToBeSearch <= a[right]) {
+            left = start;
+        } else {
+            right = start - 1;
+        }
+
+        while (left <= right) {
+            mid = left + (right - left) / 2;
+            if (a[mid] == numberToBeSearch) {
+                return mid;
+            }
+            if (a[mid] < numberToBeSearch) {
+                left = mid + 1;
+            } else {
+                right = mid - 1;
+            }
+        }
+        return -1;
+    }
+}
