@@ -1,9 +1,9 @@
 class EqualSumPartitionProblem {
  
-    static int knapSack(int W, int arr[], int n)
+    static boolean subsetSum(int W, int arr[], int n)
     {
         int i, w;
-        int K[][] = new int[n + 1][W + 1];
+        boolean K[][] = new int[n + 1][W + 1];
  
         for (i = 0; i <= n; i++) 
         {
