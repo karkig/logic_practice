@@ -9,7 +9,7 @@ class SubsetSumProblem {
  
     // Returns the maximum value that can
     // be put in a knapsack of capacity W
-    static int knapSack(int W, int arr[], int n)
+    static int subsetSum(int W, int arr[], int n)
     {
         int i, w;
         int K[][] = new int[n + 1][W + 1];
@@ -46,6 +46,6 @@ class SubsetSumProblem {
         int arr[] = new int[] { 10, 20, 30 };
         int W = 50;
         int n = val.length;
-        System.out.println(knapSack(W, arr, n));
+        System.out.println(subsetSum(W, arr, n));
     }
 }
