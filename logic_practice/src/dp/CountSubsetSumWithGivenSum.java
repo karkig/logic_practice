@@ -1,4 +1,4 @@
-class CountSbubsetSumWithGivenSumProblem {
+class CountSubsetSumWithGivenSum {
  
     static int knapSack(int W, int arr[], int n)
     {
