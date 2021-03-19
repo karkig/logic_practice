@@ -1,18 +1,11 @@
 class SubsetSumProblem {
  
-    // A utility function that returns
-    // maximum of two integers
-    static int max(int a, int b) 
-    { 
-          return (a > b) ? a : b; 
-    }
- 
     // Returns the maximum value that can
     // be put in a knapsack of capacity W
-    static int subsetSum(int W, int arr[], int n)
+    static boolean subsetSum(int W, int arr[], int n)
     {
         int i, w;
-        int K[][] = new int[n + 1][W + 1];
+        boolean K[][] = new int[n + 1][W + 1];
  
         for (i = 0; i <= n; i++) 
         {
