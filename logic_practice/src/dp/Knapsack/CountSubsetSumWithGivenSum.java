@@ -7,16 +7,15 @@ class CountSubsetSumWithGivenSum {
  
         for (i = 0; i <= n; i++) 
         {
-            for (j = 0; j <= W; w++) 
-            {
-                if (i == 0)
-                    K[i][j] = false;
-                if (j == 0)
-                    K[i][j] = true;
-            }
+           K[i][0] = true;
+            
         }
-   
-              
+     
+        for (j = 1; j <= W; w++) 
+        {    
+                K[0][j] = false;
+         }
+     
        for (i = 1; i <= n; i++) 
         {
             for (j = 1; j <= W; j++) 
