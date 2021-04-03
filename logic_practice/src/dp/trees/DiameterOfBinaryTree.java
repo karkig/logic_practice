@@ -5,7 +5,8 @@ public class DiameterOfBinaryTree
   }
    public static void main(String arg[])
    {
-     
+     int result = Integer.MIN_VALUE;
+     findDiameter(node);
    }
   
   int findDiameter(Node node,Integer result)
