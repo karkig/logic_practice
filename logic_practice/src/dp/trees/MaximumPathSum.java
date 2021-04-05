@@ -48,7 +48,7 @@ public class MaximumPathSum
     int leftValue = findDiameter(node.left,res);
     int rightValue= findDiameter(node.right,res);
     
-    int temp = max(max(leftValue+rightValue)+node.value, node.value);
+    int temp = max(max(leftValue,rightValue)+node.value, node.value);
     int ans = max(temp,(leftValue+rightValue+node.value));
     result = max(result,ans);
     
