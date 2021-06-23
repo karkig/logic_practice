@@ -38,5 +38,7 @@ class NearestGreaterToRight
         s.push(a[i]);
       }
       
+        // Reverse the list and print
+        
     }
 }
